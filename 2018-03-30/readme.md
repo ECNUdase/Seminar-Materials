@@ -2,7 +2,7 @@
 ------------
 | Title | Detail | Author |
 | ----- | ------ | ------ |
-|     aaaaaaaaaaaaaaaaa  |  aaaaaaaaaaaaaaaaaaaaa      |  aaaaaaaaaaaaaaaaaaaaaaa      |
+|     |      |       |
 |       |        |        |
 |       |        |        |
 |       |        |        |
