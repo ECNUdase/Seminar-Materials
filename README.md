@@ -44,9 +44,10 @@
 | Structure Regularized Neural Network  for Entity Relation Classification for Chinese Literature Text | 利用结构正则化简化句法结构，进行关系提取                    | KuangJun  |
 | Ranking-Based Name Matching for Author Disambiguation in Bibliographic Data | KDD Cup 2013第二名，使用基于字符串和元路径的相似度进行作者姓名消歧 | LiNa      |
 
-### 组会 2018-5-18
+### 2018-5-18
 
 | Title                                    | Detail                                   | Author      |
 | ---------------------------------------- | ---------------------------------------- | ----------- |
 | Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation | 2015年实体消岐的最优模型，采用神经网络，使用了Embedding，卷积，神经张量网络等结构。 | ChenYuanZhe |
 | 解析HashTable，HashMap，ConcurrentHashMap    | 讨论了java中该三种结构的特点，主要从多线程安全性、性能等方面考虑       | YinJiaLing  |
+
