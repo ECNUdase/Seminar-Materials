@@ -51,3 +51,10 @@
 | Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation | 2015年实体消岐的最优模型，采用神经网络，使用了Embedding，卷积，神经张量网络等结构。 | ChenYuanZhe |
 | 解析HashTable，HashMap，ConcurrentHashMap    | 讨论了java中该三种结构的特点，主要从多线程安全性、性能等方面考虑       | YinJiaLing  |
 
+###  2018-6-15
+| Title                                    | Detail                                   | Author     |
+| ---------------------------------------- | ---------------------------------------- | ---------- |
+| R-FCN: Object Detection via Region-based Fully Convolutional Networks | 目标检测网络。效果不比之前的RCNN，Fast-RCNN差，但是速度更快了。   | God E      |
+| BiNE: Bipartite Network Embedding        | 在二分图中采用了表示学习的方法，将节点embedding成向量，通过向量距离来度量节点的相似性。 训练过程类似Word2vec，使用了负采样，负样本的采样分布使用了LSH来代替频率 | ChenLeiHui |
+
+
