@@ -3,7 +3,7 @@
 ### 2018-9-21
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Learning from Semi-Supervised Weak-Label Data                   | 半监督弱标签下的多标签分类算法(数据集只有少部分标注，大部分未标注；数据标注的准确性无法保证)  | Fuyingnan | [ppt](2018-2019/Learning from Semi-Supervised Weak-Label Data.pptx) |
+| Learning from Semi-Supervised Weak-Label Data                   | 半监督弱标签下的多标签分类算法(数据集只有少部分标注，大部分未标注；数据标注的准确性无法保证)  | Fuyingnan | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/Learning%20from%20Semi-Supervised%20Weak-Label%20Data.pptx?raw=true) |
 
 ### 2018-3-16
 | Title                                    | Detail                                   | Author    |
