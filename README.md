@@ -3,7 +3,7 @@
 ### 2018-9-28
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Question Difficulty Prediction for READING Problems in Standard Tests | 构造了TACNN框架来评估英语阅读问题难度，将文章、问题、选项作为特征输入，预测每个问题的难度系数 | Zhurenyu | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/Learning%20from%20Semi-Supervised%20Weak-Label%20Data.pptx?raw=true) |
+| Question Difficulty Prediction for READING Problems in Standard Tests | 构造了TACNN框架来评估英语阅读问题难度，将文章、问题、选项作为特征输入，预测每个问题的难度系数 | Zhurenyu | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/AAAI%202017%20Question%20Difficulty%20Prediction%20for%20READING%20Problems%20in%20Standard%20Tests.pptx) |
 
 ### 2018-9-21
 | Title                                    | Detail                                   | Author    | link |
