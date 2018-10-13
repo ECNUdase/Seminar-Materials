@@ -1,5 +1,9 @@
 # 数据科学研讨会记录（信息系统组）
 
+### 2018-10-13
+| Title                                    | Detail                                   | Author    | link |
+| ---------------------------------------- | ---------------------------------------- | --------- | --------- |
+| Contextual String Embeddings for Sequence Labeling | （flair）预训练一个字符级别的语言模型，用其来对单词进行表征。通过将其与传统的word embedding进行拼接，提高了序列标注任务的性能 | Chenyuanzhe | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/flair.pptx) |
 ### 2018-9-28
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
