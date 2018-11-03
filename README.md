@@ -14,7 +14,7 @@
 ### 2018-10-20
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| A Walk-based Model on Entity Graphs for Relation Extraction (ACL2018) | 性能 | Kuangjun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/) |
+| A Walk-based Model on Entity Graphs for Relation Extraction (ACL2018) | 进行关系抽取时，考虑了任意两两实体对间的关系构成的网络 | Kuangjun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/kuangjun.pptx) |
 
 ### 2018-10-13
 | Title                                    | Detail                                   | Author    | link |
