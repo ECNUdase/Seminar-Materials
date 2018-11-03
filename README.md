@@ -1,18 +1,33 @@
 # 数据科学研讨会记录（信息系统组）
 
+### 2018-11-02
+| Title                                    | Detail                                   | Author    | link |
+| ---------------------------------------- | ---------------------------------------- | --------- | --------- |
+| Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs (SIGIR2018) | 一个基于Attention和BLSTM的深度问答模型(搜索问题的精准匹配，类似选择题) | Liutingting | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/liutingting.pptx) |
+
+### 2018-10-27
+| Title                                    | Detail                                   | Author    | link |
+| ---------------------------------------- | ---------------------------------------- | --------- | --------- |
+| CoLink: An Unsupervised Framework for User Identity Linkage (AAAI2018) | 一个无监督的框架，用于进行不同网络之间的实体匹配(即找到结点之间的映射关系)  | Lina | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/lina.pptx) |
+
+### 2018-10-20
+| Title                                    | Detail                                   | Author    | link |
+| ---------------------------------------- | ---------------------------------------- | --------- | --------- |
+| A Walk-based Model on Entity Graphs for Relation Extraction (ACL2018) | 性能 | Kuangjun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/) |
+
 ### 2018-10-13
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Contextual String Embeddings for Sequence Labeling | （flair）预训练一个字符级别的语言模型，用其来对单词进行表征。通过将其与传统的word embedding进行拼接，提高了序列标注任务的性能 | Chenyuanzhe | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/flair.pptx) |
+| Contextual String Embeddings for Sequence Labeling (COLING2018) | （flair）预训练一个字符级别的语言模型，用其来对单词进行表征。通过将其与传统的word embedding进行拼接，提高了序列标注任务的性能 | Chenyuanzhe | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/flair.pptx) |
 ### 2018-9-28
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Question Difficulty Prediction for READING Problems in Standard Tests | 构造了TACNN框架来评估英语阅读问题难度，将文章、问题、选项作为特征输入，预测每个问题的难度系数 | Zhurenyu | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/AAAI%202017%20Question%20Difficulty%20Prediction%20for%20READING%20Problems%20in%20Standard%20Tests.pptx) |
+| Question Difficulty Prediction for READING Problems in Standard Tests (AAAI2017) | 构造了TACNN框架来评估英语阅读问题难度，将文章、问题、选项作为特征输入，预测每个问题的难度系数 | Zhurenyu | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/AAAI%202017%20Question%20Difficulty%20Prediction%20for%20READING%20Problems%20in%20Standard%20Tests.pptx) |
 
 ### 2018-9-21
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Learning from Semi-Supervised Weak-Label Data                   | 半监督弱标签下的多标签分类算法(数据集只有少部分标注，大部分未标注；数据标注的准确性无法保证)  | Fuyingnan | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/Learning%20from%20Semi-Supervised%20Weak-Label%20Data.pptx?raw=true) |
+| Learning from Semi-Supervised Weak-Label Data(AAAI2018) | 半监督弱标签下的多标签分类算法(数据集只有少部分标注，大部分未标注；数据标注的准确性无法保证)  | Fuyingnan | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/Learning%20from%20Semi-Supervised%20Weak-Label%20Data.pptx?raw=true) |
 
 ### 2018-3-16
 | Title                                    | Detail                                   | Author    |
