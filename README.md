@@ -2,9 +2,7 @@
 ### 2018-11-2
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs | 主要做的是问题答案的排序，利用知识图谱扩展句子的表示学习。 | Liutingting | [ppt](
-        Seminar-Materials/2018-2019/SIGIR Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs .pptx
-      ) |
+| Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs | 主要做的是问题答案的排序，利用知识图谱扩展句子的表示学习。 | Liutingting | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/SIGIR%20Knowledge-aware%20Attentive%20Neural%20Network%20for%20Ranking%20Question%20Answer%20Pairs%20.pptx) |
 
 ### 2018-10-13
 | Title                                    | Detail                                   | Author    | link |
