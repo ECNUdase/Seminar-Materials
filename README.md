@@ -1,13 +1,10 @@
 # 数据科学研讨会记录（信息系统组）
-### 2018-11-2
-| Title                                    | Detail                                   | Author    | link |
-| ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs | 主要做的是问题答案的排序，利用知识图谱扩展句子的表示学习。 | Liutingting | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/SIGIR%20Knowledge-aware%20Attentive%20Neural%20Network%20for%20Ranking%20Question%20Answer%20Pairs%20.pptx) |
+
 
 ### 2018-11-02
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
-| Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs (SIGIR2018) | 一个基于Attention和BLSTM的深度问答模型(搜索问题的精准匹配，类似选择题) | Liutingting | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/liutingting.pptx) |
+| Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs (SIGIR2018) | 主要做的是问题答案的排序，利用知识图谱扩展句子的表示学习。| Liutingting | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/liutingting.pptx) |
 
 ### 2018-10-27
 | Title                                    | Detail                                   | Author    | link |
