@@ -1,6 +1,11 @@
 # 数据科学研讨会记录（信息系统组）
 
 
+### 2018-11-09
+| Title                                    | Detail                                   | Author    | link |
+| ---------------------------------------- | ---------------------------------------- | --------- | --------- |
+| Improving Knowledge Graph Embedding Using Simple Constraints (ACL2018) | 将KG embedding为复数的形式，通过新增复数运算的约束来提高KG embedding的效果| Zhouxiaoxu | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/zhouxiaoxu.pptx) |
+
 ### 2018-11-02
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
