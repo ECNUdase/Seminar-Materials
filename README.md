@@ -1,7 +1,15 @@
 # 数据科学研讨会记录（信息系统组）
 
+### 2019-03-22
+
+| Title                                                        | Detail                                    | Author   | link                                                         |
+| ------------------------------------------------------------ | ----------------------------------------- | -------- | ------------------------------------------------------------ |
+| MOOC Dropout Prediction: Lessons Learned from Making Pipelines Interpretable(WWW'17) | 探讨MOOC课程平台Dropout预测模型的可解释性 | KuangJun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/InterpretableDropout.pptx) |
+
+### 
 
 ### 2018-11-09
+
 | Title                                    | Detail                                   | Author    | link |
 | ---------------------------------------- | ---------------------------------------- | --------- | --------- |
 | Improving Knowledge Graph Embedding Using Simple Constraints (ACL2018) | 将KG embedding为复数的形式，通过新增复数运算的约束来提高KG embedding的效果| Zhouxiaoxu | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/2018-2019/zhouxiaoxu.pptx) |
