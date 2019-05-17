@@ -1,10 +1,40 @@
 # 数据科学研讨会记录（信息系统组）
 
-### 2019-03-22
+### 在线教育相关paper
+
+| Title                                                        | Detail                                           | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Prerequisite Relation Learning for Concepts in MOOCs（ACL2017） | 研究MOOC中概念之间的先后关系 | Fuyingnan   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/fuyingnan.pptx) |
+
+| Title                                                        | Detail                                           | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Question Difficulty Prediction for READING Problems in Standard Tests (AAAI2017) | 标准测试需要保持每次测试的难度相近，因此对测试问题的难度估计十分关键，而传统的难度估计需要大量的专家人力成本。因此本文提出一个新型的TACNN（Test-aware Attention-based Convolutional Neural Network）网络架构解决了标准测试中阅读理解题的难题预测问题。真实数据集的扩展实验验证了TACNN的有效性。 | Zhurenyu   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/zhurenyu1.pptx) |
+
+
+| Title                                                        | Detail                                           | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Identifying At-Risk Students in Massive Open Online Courses (AAAI2015) | 对MOOC平台处于border line的学生进行及时激励 | Hanyi   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/hanyi.pptx) |
+
+| Title                                                        | Detail                                           | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Investigating Active Learning for Concept Prerequisite Learning（AAAI2018） | 研究对比 了各种主动学习方法在学科先决关系预测中的性能好坏 | Chenyuanzhe   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/Concept_prerequisite_learning.pptx) |
+
+| Title                                                        | Detail                                           | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Predicting Instructor’s Intervention in MOOC forums（ACL2014） | 在MOOC的论坛中，预测某个帖子是否需要指导老师干预 | Lina   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/PrecidctingInstructorsInterventioninMOOCforums.pdf) |
 
 | Title                                                        | Detail                                    | Author   | link                                                         |
 | ------------------------------------------------------------ | ----------------------------------------- | -------- | ------------------------------------------------------------ |
-| MOOC Dropout Prediction: Lessons Learned from Making Pipelines Interpretable(WWW'17) | 探讨MOOC课程平台Dropout预测模型的可解释性 | KuangJun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/InterpretableDropout.pptx) |
+| MOOC Dropout Prediction: Lessons Learned from Making Pipelines Interpretable（WWW17） | 探讨MOOC课程平台Dropout预测模型的可解释性 | KuangJun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/InterpretableDropout.pptx) |
+
+
+| Title                                                        | Detail                                        | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Mining MOOC Clickstreams: On the Relationship Between Learner Behavior and Performance (KDD2015) | 在MOOC平台上，发现学习者反复出现的行为，分析行为和表现的关系。 | Liutingting   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/liutingting.pptx) |
+
+| Title                                                        | Detail                                        | Author | link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| Understanding Dropouts in MOOCs (AAAI) | 探讨MOOC平台注册用户的动机，辍学的原因，以及如何提前预测辍学以便人工干预 | Gaobaoli   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/gaobaoli.pdf) |
 
 ### 
 
