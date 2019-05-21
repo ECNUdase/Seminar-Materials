@@ -12,6 +12,7 @@
 | MOOC Dropout Prediction: Lessons Learned from Making Pipelines Interpretable（WWW17） | 探讨MOOC课程平台Dropout预测模型的可解释性 | KuangJun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/InterpretableDropout.pptx) |
 | Mining MOOC Clickstreams: On the Relationship Between Learner Behavior and Performance (KDD2015) | 在MOOC平台上，发现学习者反复出现的行为，分析行为和表现的关系。 | Liutingting   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/liutingting.pptx) |
 | Understanding Dropouts in MOOCs (AAAI) | 探讨MOOC平台注册用户的动机，辍学的原因，以及如何提前预测辍学以便人工干预 | Gaobaoli   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/gaobaoli.pdf) |
+| Dropout Model Evaluation in MOOCs (AAAI2018) | 探讨MOOC平台注册用户的动机，辍学的原因，以及如何提前预测辍学以便人工干预 | Zhouxiaoxu   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/zhouxiaoxu.pptx) |
 
 ### 
 
