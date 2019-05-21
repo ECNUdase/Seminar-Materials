@@ -12,7 +12,7 @@
 | MOOC Dropout Prediction: Lessons Learned from Making Pipelines Interpretable（WWW17） | 探讨MOOC课程平台Dropout预测模型的可解释性 | KuangJun | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/InterpretableDropout.pptx) |
 | Mining MOOC Clickstreams: On the Relationship Between Learner Behavior and Performance (KDD2015) | 在MOOC平台上，发现学习者反复出现的行为，分析行为和表现的关系。 | Liutingting   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/liutingting.pptx) |
 | Understanding Dropouts in MOOCs (AAAI) | 探讨MOOC平台注册用户的动机，辍学的原因，以及如何提前预测辍学以便人工干预 | Gaobaoli   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/gaobaoli.pdf) |
-| Dropout Model Evaluation in MOOCs (AAAI2018) | 探讨MOOC平台注册用户的动机，辍学的原因，以及如何提前预测辍学以便人工干预 | Zhouxiaoxu   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/zhouxiaoxu.pptx) |
+| Dropout Model Evaluation in MOOCs (AAAI2018) | 对于预测MOOC上的学生是否辍学的模型，用   Friedman 检验和Nemenyi 后续检验 ，从算法（比如CART，ada）和特征类别（forum-,assignment-, and clickstream-based ）两方面结合，在统计的意义上评估了它们的性能区别。 | Zhouxiaoxu   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/zhouxiaoxu.pptx) |
 | Recovering Concept Prerequisite Relations from University Course Dependencies (AAAI2017) | 构建带权路径和发现知识的先后关系 | Zhengshu   | [ppt](https://github.com/ECNUdase/Seminar-Materials/blob/master/Education/zhengshu.pptx) |
 
 ### 
